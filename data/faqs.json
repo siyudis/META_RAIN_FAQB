@@ -1,0 +1,170 @@
+[
+  {
+    "id": "courses-overview",
+    "category": "Courses",
+    "question": "What courses does your institute offer?",
+    "keywords": ["courses", "programs", "classes", "subjects", "what do you teach", "course list"],
+    "answer": "We offer 40+ career-focused online courses across Technology (Python, Java, Full-Stack Development, Data Science, Machine Learning, AI, Cloud & DevOps, Cybersecurity), Business (Digital Marketing, Business Analytics, Project Management), and Design (UI/UX Design, Graphic Design). All courses are live online with recordings available. You can browse the full catalog on our Courses page and compare curricula, duration, and pricing side-by-side."
+  },
+  {
+    "id": "beginner-friendly",
+    "category": "Courses",
+    "question": "Are your courses suitable for beginners?",
+    "keywords": ["beginner", "beginners", "no experience", "newbie", "starting", "entry level"],
+    "answer": "Absolutely — about 60% of our students start with zero experience. Beginner-friendly tracks like Python Foundations, Web Development Basics, Data Analytics, and Digital Marketing start from fundamentals and build step-by-step. Each course includes placement assessments, doubt-clearing sessions, and mentor support so you can learn at your own pace with guided help."
+  },
+  {
+    "id": "course-duration",
+    "category": "Courses",
+    "question": "How long does a course take to complete?",
+    "keywords": ["duration", "how long", "weeks", "months", "timeline", "finish", "complete in"],
+    "answer": "Most certificates range from 6 to 12 weeks for fast-track programs and 3 to 6 months for comprehensive bootcamps like Full-Stack Development or Data Science. Each course page shows the expected duration, weekly time commitment (typically 6–10 hours/week), and flexibility to pace slower if needed — lifetime access means you finish on your own schedule."
+  },
+  {
+    "id": "live-vs-recorded",
+    "category": "Courses",
+    "question": "Are classes live or recorded? Can I learn at my own pace?",
+    "keywords": ["live", "recorded", "self-paced", "videos", "online class", "zoom", "schedule"],
+    "answer": "Our model is hybrid: live interactive sessions (weekday evenings and weekends, with doubt-clearing) plus 100% recorded lectures, assignments, and resources. If you miss a live class, the recording is posted within 2 hours. You can complete all practice and projects at your own pace while still attending mentor sessions for support."
+  },
+  {
+    "id": "enrollment-how",
+    "category": "Admissions",
+    "question": "How do I enroll in a course?",
+    "keywords": ["enroll", "admission", "register", "sign up", "join", "apply", "how to enroll"],
+    "answer": "Enrollment takes under 5 minutes: 1) Browse courses and pick one, 2) Click 'Enroll Now' and create a free account, 3) Choose a payment plan (one-time or 3–6 EMI), 4) Get instant access to modules, community, and onboarding. You can also book a free counselling call — we'll help you pick the right course based on your goals."
+  },
+  {
+    "id": "eligibility",
+    "category": "Admissions",
+    "question": "Is there an eligibility criteria or prerequisites?",
+    "keywords": ["eligibility", "prerequisites", "required", "degree", "qualification", "can i join"],
+    "answer": "For most courses, no degree is required — only a laptop (or smartphone for some tracks) and basic English communication skills. Advanced tracks like Machine Learning or Full-Stack Development recommend basic programming familiarity, but our free 'Python Foundations' bridge module covers gaps before you start."
+  },
+  {
+    "id": "fees-payment",
+    "category": "Fees & Payments",
+    "question": "How much do courses cost and what payment methods do you accept?",
+    "keywords": ["fees", "cost", "price", "pricing", "payment", "pay", "emi", "installment"],
+    "answer": "Course fees typically range from N4,999 for short certificates to N49,999 for bootcamps (regional pricing varies; see the course page for exact fees). We accept UPI, credit/debit cards, net banking, wallets, and EMI (3/6/12 months at 0% with major cards). All payments are secured via Razorpay/Stripe and you receive a GST invoice instantly."
+  },
+  {
+    "id": "discounts-scholarships",
+    "category": "Fees & Payments",
+    "question": "Do you offer discounts or scholarships?",
+    "keywords": ["discount", "scholarship", "offer", "promo", "coupon", "early bird", "student discount"],
+    "answer": "Yes — we run regular value offers: Early Bird (up to 30% off if you enroll 2+ weeks before batch start), Merit Scholarships (up to 50% for top scorers on our entrance aptitude test), and group discounts for 3+ friends. Apply promo codes at checkout and stack with EMI. Scholarship results are published within 48 hours of the test."
+  },
+  {
+    "id": "refund-policy",
+    "category": "Fees & Payments",
+    "question": "What is your refund policy?",
+    "keywords": ["refund", "return", "money back", "cancel", "cancel course"],
+    "answer": "We offer a 7-day no-questions-asked refund after enrollment. After day 7, refunds are pro-rata (based on completed modules) within 30 days. EMI refunds are processed to the original payment method within 5–7 business days. To request a refund, email support@learnup.ai or use the dashboard — no calls needed."
+  },
+  {
+    "id": "certificate",
+    "category": "Certificates & Careers",
+    "question": "Do I get a certificate after completing a course?",
+    "keywords": ["certificate", "certified", "completion certificate", "diploma", "credential"],
+    "answer": "Yes — on successful completion (80%+ assignments/projects + final assessment) you receive a verifiable digital certificate with a unique ID and QR code, plus a LinkedIn-ready badge. Certificates are co-branded and shareable on resumes/portfolio. It is lifetime valid and verifiable by employers via our verification page."
+  },
+  {
+    "id": "placement-support",
+    "category": "Certificates & Careers",
+    "question": "Do you provide job placement assistance?",
+    "keywords": ["placement", "jobs", "hiring", "career", "job assistance", "interview"],
+    "answer": "All career-track bootcamps include placement support: resume reviews, mock interviews (technical + HR), portfolio grooming, and introductions to 200+ hiring partners. We maintain a 78% placement rate within 6 months of graduation (2023–24 cohort). It is assistance, not a guaranteed job — your effort in projects and interviews matters most."
+  },
+  {
+    "id": "instructors",
+    "category": "Instructors & Support",
+    "question": "Who are the instructors and mentors?",
+    "keywords": ["instructor", "teacher", "mentor", "faculty", "who teaches", "expert"],
+    "answer": "Instructors are industry practitioners — engineers, data scientists, and designers from companies like Google, Microsoft, Amazon, and leading startups, averaging 8+ years experience. Each course also has a dedicated mentor for 1:1 doubt sessions, code/project reviews, and career guidance throughout your journey."
+  },
+  {
+    "id": "doubt-support",
+    "category": "Instructors & Support",
+    "question": "How can I get my doubts cleared? What is the support system?",
+    "keywords": ["doubt", "support", "help", "community", "mentor support", "query", "slack", "discord"],
+    "answer": "You get 3 layers: 1) Live doubt-clearing classes (daily), 2) 1:1 mentor slots you can book from your dashboard, and 3) a private student community (Slack/Discord) where students and TAs answer within hours. Average response time is under 4 hours on weekdays."
+  },
+  {
+    "id": "system-requirements",
+    "category": "Technical",
+    "question": "What are the system requirements? Can I learn from a mobile phone?",
+    "keywords": ["laptop", "mobile", "phone", "system requirements", "device", "hardware", "internet"],
+    "answer": "Basic requirements: stable internet (2 Mbps+), a laptop/desktop with browser (Chrome/Firefox) for most courses. For programming courses, 4GB RAM / dual-core is enough — we provide cloud labs so you don't need to install heavy software. Mobile app is available for watching videos on the go, but project submissions work best on a laptop."
+  },
+  {
+    "id": "language",
+    "category": "Technical",
+    "question": "Are courses available in Hindi or regional languages?",
+    "keywords": ["hindi", "language", "regional", "vernacular", "english"],
+    "answer": "Core courses are in English with subtitles, but we offer Pidgin live batches for Python, Web Dev, and Digital Marketing (mixed Hausa-English, for comfort), plus transcripts in Pidgin for key modules. Many resources are bilingual. In live classes, mentors will happily explain concepts in Pidgin if you prefer."
+  },
+  {
+    "id": "access-lifetime",
+    "category": "Technical",
+    "question": "How long do I have access to the course materials?",
+    "keywords": ["lifetime access", "validity", "how long access", "expire", "access period"],
+    "answer": "You get lifetime access to all lectures, notes, and assignments for the course you enrolled in — including future updates to that curriculum. Career support, community access, and mentor sessions continue for 6 months after completion (extendable for bootcamp students)."
+  },
+  {
+    "id": "projects-portfolio",
+    "category": "Certificates & Careers",
+    "question": "Will I build projects and a portfolio?",
+    "keywords": ["projects", "portfolio", "real world", "hands on", "assignments"],
+    "answer": "Yes — every career course includes 3–5 real-world projects (e.g., building a full-stack app, ML model, or marketing campaign) plus 2 capstone projects reviewed by mentors. You'll graduate with a public portfolio (GitHub/Behance/Dribbble) and case studies you can show to employers."
+  },
+  {
+    "id": "corporate-training",
+    "category": "Corporate",
+    "question": "Do you offer training for companies or teams?",
+    "keywords": ["corporate", "company", "team", "enterprise", "bulk", "b2b"],
+    "answer": "Yes — we run tailored corporate upskilling programs for teams of 5–500. Includes custom curriculum, dedicated cohort manager, progress dashboards, and certification tracking. Past clients include fintechs, IT firms, and edu-tech companies. Email corporate@learnup.ai for a 30-min discovery call and bulk pricing."
+  },
+  {
+    "id": "demo-class",
+    "category": "Admissions",
+    "question": "Can I attend a free demo class before enrolling?",
+    "keywords": ["demo", "free class", "trial", "sample", "try", "test"],
+    "answer": "Yes! Every course has a free 60-min live demo you can join instantly — no card required. Just pick a course, click 'Book Free Demo', and you'll get a Zoom link. You'll meet the instructor, see the curriculum, and do a mini hands-on activity. Demos are usually held Tue/Thu/Sat. Can't make it? The recording is emailed to you."
+  },
+  {
+    "id": "contact-human",
+    "category": "Support",
+    "question": "How can I contact a human from your team?",
+    "keywords": ["contact", "phone", "email", "call", "human", "talk to", "support", "whatsapp"],
+    "answer": "Our student success team is available Mon–Sat, 9 AM–8 PM GMT+1: Email support@learnup.ai, WhatsApp +234-98765-43210, or call 0800-123-4567 (toll-free). For urgent issues, use the in-app 'Help' button — average response under 2 hours. You can also book a free 15-min counselling call from any course page."
+  },
+  {
+    "id": "career-guidance",
+    "category": "Certificates & Careers",
+    "question": "I am confused about which course to pick. Can you help me choose?",
+    "keywords": ["confused", "which course", "choose", "career advice", "guidance", "suggest", "right course"],
+    "answer": "That's what our free counselling is for. Book a free 15-min call (or chat with this bot) and tell us your background, goals (job switch, promotion, freelancing), and time you can invest weekly. We'll suggest a learning path — e.g., Python → Data Science or HTML/CSS/JS → Full-Stack — with a realistic timeline and cost breakdown. No pressure: you can also take our 3-min career aptitude quiz."
+  },
+  {
+    "id": "offline-download",
+    "category": "Technical",
+    "question": "Can I download lectures and learn offline?",
+    "keywords": ["download", "offline", "watch offline", "save videos"],
+    "answer": "Yes — on mobile, you can download videos for offline viewing. On desktop, downloads are disabled for DRM but you can access all materials (PDFs, code, datasets) anytime. Offline downloads in the mobile app remain available as long as you're enrolled."
+  },
+  {
+    "id": "group-disc",
+    "category": "Fees & Payments",
+    "question": "Is there a group discount for friends or classmates?",
+    "keywords": ["group discount", "friends discount", "referral", "batch discount"],
+    "answer": "Yes! Enroll with 2+ friends and get an extra 10% off per person (stacks with Early Bird up to 40% total). Share your referral link from the dashboard — when your friend enrolls within 14 days, you earn ₹500 credits and they get 10% off. Groups of 5+ get a dedicated study group and mentor hours."
+  },
+  {
+    "id": "age-limit",
+    "category": "Admissions",
+    "question": "Is there an age limit for joining?",
+    "keywords": ["age", "age limit", "old", "young", "student age"],
+    "answer": "No age limit — our students range from 16 to 62. Whether you're a college student, working professional, or homemaker restarting a career, you're welcome. For under-16 learners, we recommend the Junior Coding track (age 8–16) with parental consent."
+  }
+]

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LearnUp Academy — FAQ Chatbot</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="chat-shell">
+    <header class="chat-header">
+      <div class="avatar">🎓</div>
+      <div>
+        <h1>LearnUp Academy FAQs</h1>
+        <p>Ask about courses, fees, enrollment, certificates & placements</p>
+      </div>
+      <span id="statusBadge" class="badge">checking…</span>
+    </header>
+
+    <div id="chips" class="chips"></div>
+
+    <main id="messages" class="messages" aria-live="polite"></main>
+
+    <footer class="composer">
+      <input id="input" type="text" placeholder="Ask a question…" autocomplete="off" />
+      <button id="sendBtn" title="Send">➤ Send</button>
+    </footer>
+    <div class="hints">Try: “How much do courses cost?” • “Do I get a certificate?” • “How do I enroll?”</div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
